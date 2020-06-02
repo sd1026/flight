@@ -42,14 +42,12 @@ state/national call center (1075).
                     <strong>as per their assessment.</strong>
                 </div>
 
-                <div>
-                    <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-                        https://www.youtube.com/watch?v=XUMho8imL0k
-</div></figure>
+                <div class="iframe-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/dUyTvfNHZXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
 
-                <div>
+                <div class="jumbotron">
                     <p>
                         <strong>Guidelines for domestic travel (air/train/inter-state bus travel)</strong>
 1) Dos and Don'ts shall be provided along with tickets to the travellers by the agencies concerned.
@@ -70,10 +68,8 @@ NOTE: States can also develop their own protocol with regards to quarantine and 
                     </p>
                 </div>
 
-                <div>
-                    <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-                        https://www.youtube.com/watch?v=dUyTvfNHZXA
-</div></figure>
+                <div class="iframe-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/XUMho8imL0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
 
